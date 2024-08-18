@@ -1,7 +1,9 @@
 Test Plan
 
-Kontekstas: liniuote.lt - elektroninė parduotuvė. Rankinio testavimo tikslas: non-functional testavimas, patikrinant elektroninės parvuotuvės vizualinį išdėstymą, veikimą; functional testavimas, patikrininat svarbiausių funkcijų veikimą.
+Kontekstas: liniuote.lt - vaikams skirtų edukacinių priemonių parduotuvė. Parduotuvė testuojama iš vartotojo perspektyvos, puslapis yra viešas, prienamas kiekvienam vartotojui.
+
+Rankinio testavimo tikslas: non-functional testavimas, patikrinant elektroninės parvuotuvės vizualinį išdėstymą, veikimą; functional testavimas, patikrininat svarbiausių funkcijų veikimą. Rezultatai pareikiami Test Case aprašyme, taip pat testuojama Check List principu.
 
 Apimtis: non-functional testavimas; functional testavimas (registracija, prekių pirkimo procesas, prekių paieškos procesas).
 
-Testavimo įrankiai: Chrome naršyklė
+Testavimo įrankiai: Chrome naršyklė (127.0.6533.120)
